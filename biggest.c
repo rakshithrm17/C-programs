@@ -10,7 +10,7 @@ void main()
      if(a>c)
             printf("\na is maximum");
        else
-            printf("\c is maximum");
+            printf("\nc is maximum");
    }
    else
    {
